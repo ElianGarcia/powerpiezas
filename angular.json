@@ -30,9 +30,21 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/stylesheet/bootstrap.min.css",
+              "src/assets/stylesheet/font-awesome.css",
+              "src/assets/stylesheet/bootstrap-select.css",
+              "src/assets/stylesheet/revslider.css",
+              "src/assets/stylesheet/owl.carousel.css",
+              "src/assets/stylesheet/owl.theme.css",
+              "src/assets/stylesheet/jquery.bxslider.css",
+              "src/assets/stylesheet/jquery.mobile-menu.css",
+              "src/assets/stylesheet/style.css",
+              "src/assets/stylesheet/responsive.css"
             ],
-            "scripts": []
+            "scripts": [
+              
+            ]
           },
           "configurations": {
             "production": {
